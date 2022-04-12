@@ -1,3 +1,6 @@
 [submodule "sub-sub"]
 	path = sub-sub
 	url = https://github.com/Ziegurd/sub-sub.git
+[submodule "add"]
+	path = add
+	url = https://github.com/Ziegurd/add.git
